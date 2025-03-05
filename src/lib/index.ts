@@ -5,3 +5,7 @@ import Q1MultiLineChart from './Q1MultiLineChart.svelte'
 export {Q1MultiLineChart}
 import Q2Heatmap from './Q2Heatmap.svelte'
 export {Q2Heatmap}
+
+import Scatter from './Scatter.svelte'
+import Line from './Line.svelte'
+export {Scatter, Line}
